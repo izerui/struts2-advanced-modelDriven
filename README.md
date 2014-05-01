@@ -53,8 +53,8 @@ public class yourParam{
 - 3. 去掉实现的接口 ApplicationContextAware
 
 #不过建议留着吧.
--当你用上 spring 的event 的时候,你会需要它.
--当你需要动态的根据className 或者 classType 获取bean 的时候,你会需要它.
+- 当你用上 spring 的event 的时候,你会需要它.
+- 当你需要动态的根据className 或者 classType 获取bean 的时候,你会需要它.
 
 
 
