@@ -55,6 +55,9 @@ public class yourParam{
 #不过建议留着吧.
 - 当你用上 spring 的event 的时候,你会需要它.
 - 当你需要动态的根据className 或者 classType 获取bean 的时候,你会需要它.
+- 
+
+![图](http://dl.iteye.com/upload/picture/pic/130175/017e87c4-e4a6-3da8-92c6-7502a0e84486.png)
 
 
 
